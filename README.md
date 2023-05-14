@@ -8,4 +8,4 @@ Each school student has a QR code on his/her ID Card. While boarding or de-board
 
 ## App screenshot
 
-   ![Screenshot](appSnip0.jpeg)
+<img src="appSnip0.png" alt="Screenshot" width="400"/>
