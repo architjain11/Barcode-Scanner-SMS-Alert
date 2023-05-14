@@ -1,6 +1,6 @@
 # Barcode Scanner SMS Alert
 
-App is build using MIT App Invector 2. This repository contains .aia file which is a format used by MIT App Inventor (.aia stands for App Inventor Archive).
+App is built using MIT App Invector 2. This repository contains .aia file which is a format used by MIT App Inventor (.aia stands for App Inventor Archive).
 
 ## Idea
 
